@@ -46,9 +46,9 @@ put this in c after extracting
 https://github.com/gsrajudupi-hash/angular-app.git
 put this in training
 
-open vs code \n
-type cmd on terminal if it showing PS 
-type set path=C:\node-v20.18.0-win-x64
-npm -v
-node -v 
-ng serve to start angular project
+- open vs code 
+- type cmd on terminal if it showing PS 
+- type set path=C:\node-v20.18.0-win-x64
+- npm -v
+- node -v 
+- ng serve to start angular project
