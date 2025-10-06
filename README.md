@@ -52,3 +52,4 @@ put this in training
 - npm -v
 - node -v 
 - ng serve to start angular project
+- ng generate component login to create login component inside src/app/
